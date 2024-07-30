@@ -58,7 +58,7 @@ The `sc` command-line tool is used to communicate with the SCM to install, start
 
 ## Requirements, Installation & Usage
 
-**I will explain here the requirements, installation and the usage of this keylogger:** <br>
+**I will explain here the requirements, installation and the usage of this service:** <br>
 
 **Requirements:**
 1. Ensure you have a C++ compiler and Windows SDK installed. <br><br>

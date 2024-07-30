@@ -65,7 +65,7 @@ The `sc` command-line tool is used to communicate with the SCM to install, start
 
 
 **Installation:**
-1. Download and extract the [ZIP file](https://github.com/eliyaballout/Keylogger/archive/refs/heads/main.zip).<br>
+1. Download and extract the [ZIP file](https://github.com/eliyaballout/Dir_Monitoring_Service/archive/refs/heads/main.zip).<br>
 2. Navigate to **x64 --> Debug**, you will find the `DirMonService.exe` executable file, this is the executable that you need to run in order to monitor directory changes. <br><br>
 
 

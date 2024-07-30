@@ -99,7 +99,7 @@ sc stop DirMonService
 <br><br>
 
 
-**You also can pause, resume and even delete the service:**
+**You can also pause, resume and even delete the service:**
 
 **pause:**
 ```

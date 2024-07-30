@@ -71,7 +71,7 @@ The `sc` command-line tool is used to communicate with the SCM to install, start
 
 **Usage:**
 
-**Make sure you run all the executables in cmd with administrator privileges (Run as Administrator)** <br>
+**Make sure you run the executable in cmd with administrator privileges (Run as Administrator)** <br>
 
 **Creating or installing the service:**
 
@@ -82,7 +82,7 @@ where `"C:\Path\To\DirMonService.exe"` should be the full path of the executable
 
 <br>
 
-**Starting the service to start monitoring:** <br>
+**Starting the service to begin monitoring:** <br>
 ```
 sc start DirMonService <directory_To_Monitor> <log_File_Path>
 ```

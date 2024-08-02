@@ -36,11 +36,7 @@ The `sc` command-line tool is used to communicate with the SCM to install, start
 
 ## Key Components
 
-1. **Windows Service:** Implements a Windows service to run in the background and monitor directory changes.
-
-2. **Directory Monitoring:** Uses `ReadDirectoryChangesW` to monitor the specified directory for changes.
-
-3. **Event Logging:** Logs detected changes with timestamps to a specified log file.
+1. **DirMonService:** it has a cpp file called [DirMonService.cpp](https://github.com/eliyaballout/Dir_Monitoring_Service/blob/main/DirMonService/DirMonService.cpp), main service implementation for monitoring directory changes.
 
 <br><br>
 
@@ -49,7 +45,11 @@ The `sc` command-line tool is used to communicate with the SCM to install, start
 
 ## Features
 
-1. **DirMonService:** it has a cpp file called [DirMonService.cpp](https://github.com/eliyaballout/Dir_Monitoring_Service/blob/main/DirMonService/DirMonService.cpp), main service implementation for monitoring directory changes.
+1. **Windows Service:** Implements a Windows service to run in the background and monitor directory changes.
+
+2. **Directory Monitoring:** Uses `ReadDirectoryChangesW` to monitor the specified directory for changes.
+
+3. **Event Logging:** Logs detected changes with timestamps to a specified log file.
 
 <br><br>
 
